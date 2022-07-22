@@ -1,6 +1,8 @@
 # VacationYuk :tada:
 
 VacationYuk is a airbnb mini clone, the pupose of this project is to evolve frontend skill, especially at react ecosystem
+![alt text](https://github.com/dzakifadh/VacationYuk/raw/main/homepage.png "homepage.png")
+![alt text](https://github.com/dzakifadh/VacationYuk/raw/main/side-to-maps.png "side-to-maps.png")
 
 To view the demo: **[Soon!](https://www.airbnb.com/)**
 
