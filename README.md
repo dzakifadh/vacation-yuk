@@ -30,7 +30,7 @@ To view the demo: **[Soon!](https://www.airbnb.com/)**
 4. Scroll auto load `clear`
 5. Internationalization
    - Indonesia
-   - Endlish
+   - English
 6. Filters in detail
    - Price (create simple one for now)
    - Type of place
