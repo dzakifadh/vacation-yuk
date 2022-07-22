@@ -10,7 +10,7 @@ To view the demo: **[Soon!](https://www.airbnb.com/)**
 ## Features :star2:
 
 | Feature                            | Category      | Max Date         |
-| ---------------------------------- | ------------- | ---------------- |
+| :--------------------------------- | :------------ | :--------------- |
 | Show all visual above the fold     | UI            | Sun, 31 Jul 2022 |
 | Slider inside card                 | UI            | Sun, 31 Jul 2022 |
 | Filter by category (with carousel) | Functionality | Sun, 31 Jul 2022 |
@@ -49,7 +49,7 @@ To view the demo: **[Soon!](https://www.airbnb.com/)**
 - [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
 - [Headless UI](https://headlessui.dev/) - Unstyled, fully accessible UI components
 - [Playwright](https://playwright.dev/) - E2e Test
-- [Kontenbase](https://kontenbase.com/) - No Code Platform `???`
+- [Kontenbase](https://kontenbase.com/) - No Code Backend Platform `???`
 
 ## License 📄
 
