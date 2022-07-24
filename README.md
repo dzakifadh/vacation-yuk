@@ -1,62 +1,68 @@
-# VacationYuk :tada:
+# vacation Yuk 🏝️
 
-VacationYuk is a airbnb mini clone, the pupose of this project is to evolve frontend skill, especially at react ecosystem
+vacation Yuk is an Airbnb mini clone, the purpose of this project is to evolve frontend skills, especially at react ecosystem
 
-![alt text](https://github.com/dzakifadh/VacationYuk/raw/main/homepage.png "homepage.png")
-![alt text](https://github.com/dzakifadh/VacationYuk/raw/main/side-to-maps.png "side-to-maps.png")
+![alt text](https://github.com/dzakifadh/vacation-yuk/raw/main/homepage.png "homepage.png")
+![alt text](https://github.com/dzakifadh/vacation-yuk/raw/main/side-to-maps.png "side-to-maps.png")
 
 To view the demo: **[Soon!](https://www.airbnb.com/)**
 
+## Main Feature
+
+### Short Term
+
+Users can see the UI of the Vacation Yuk website with few interactions like the carousel, hover effect, etc.
+
+### Long Term
+
+Short-term goals with users can do all functionality that will be explained below
+
 ## Features :star2:
 
-| Feature                            | Category      | Max Date         |
-| :--------------------------------- | :------------ | :--------------- |
-| Show all visual above the fold     | UI            | Sun, 31 Jul 2022 |
-| Slider inside card                 | UI            | Sun, 31 Jul 2022 |
-| Filter by category (with carousel) | Functionality | Sun, 31 Jul 2022 |
-| Scroll auto load                   | Functionality | Sun, 14 Aug 2022 |
-| Internationalization               | Functionality | Sun, 14 Aug 2022 |
-| Filters in detail                  | Functionality | Sun, 14 Aug 2022 |
-| Searching (Include a11y)           | Functionality | Sun, 28 Aug 2022 |
-| Detail side to side with maps      | Functionality | Sun, 18 Sep 2022 |
-
-> DISCLAIMER : I have not sure about the timeline, because that timeline exclude time to prepare API, because i create API by own self :laughing: :relaxed:
+| Feature                                         | Category      | Date             |
+| :---------------------------------------------- | :------------ | :--------------- |
+| Can see all the vacation places on the homepage | UI            | Sun, 7 Aug 2022  |
+| Slider inside card                              | UI            | Sun, 7 Aug 2022  |
+| Filter by category (with carousel)              | Functionality | Sun, 7 Aug 2022  |
+| Scroll auto load                                | Functionality | Sun, 21 Aug 2022 |
+| Internationalization                            | Functionality | Sun, 21 Aug 2022 |
+| Filters in detail                               | Functionality | Sun, 21 Aug 2022 |
+| Searching (Include a11y)                        | Functionality | Sun, 04 Sep 2022 |
+| Detail side to side with maps                   | Functionality | Sun, 18 Sep 2022 |
 
 ## Feature Breakdown :stars:
 
-1. Show all visual above the fold `clear`
-2. Slider inside card `clear`
-3. Filter by category (with carousel) `clear`
-4. Scroll auto load `clear`
+1. Can see all the vacation places on the homepage
+2. Slider inside the card
+3. Filter by category (with carousel)
+4. Scroll autoload
 5. Internationalization
    - Indonesia
    - English
 6. Filters in detail
-   - Price (create simple one for now)
+   - Price (create a simple one for now)
    - Type of place
    - Rooms and beds (Bedrooms, Beds, Bathrooms)
    - Property type
 7. Searching (Include a11y)
-   - See center top airbnb
+   - See the center top Airbnb
 8. Detail side to side with maps
-   - Look at second screenshot
+   - Look at the second screenshot
 
-## Main Technologies will be used 🛠️
+## Main Technologies will be use 🛠️
 
 - [Typescript](https://www.typescriptlang.org/) - Main Language
-- [React JS](https://reactjs.org/) - JS Library
+- [React.js](https://reactjs.org/) - JS Library
 - [Remix](https://remix.run/) - Full Stack Web Framework
 - [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
 - [Headless UI](https://headlessui.dev/) - Unstyled, fully accessible UI components
 - [Playwright](https://playwright.dev/) - E2e Test
-- [Kontenbase](https://kontenbase.com/) - No Code Backend Platform `???`
+- [Kontenbase](https://kontenbase.com/) - No Code Backend Platform
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Thank you
+## Thank you to
 
-To Mas **[Haidar Hanif](https://github.com/mhaidarhanif)** as mentor for this project
-
-To **[https://www.conventionalcommits.org/](https://github.com/conventional-commits/conventionalcommits.org)** as a guide to make tidy commit message
+**[M Haidar Hanif](https://github.com/mhaidarhanif)** as a mentor for this project
