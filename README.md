@@ -1,6 +1,6 @@
-# vacation Yuk 🏝️
+# Vacation Yuk 🏝️
 
-vacation Yuk is an Airbnb mini clone, the purpose of this project is to evolve frontend skills, especially at react ecosystem
+Vacation Yuk is an Airbnb mini clone, the purpose of this project is to evolve frontend skills, especially in react ecosystem
 
 ![alt text](https://github.com/dzakifadh/vacation-yuk/raw/main/homepage.png "homepage.png")
 ![alt text](https://github.com/dzakifadh/vacation-yuk/raw/main/side-to-maps.png "side-to-maps.png")
@@ -19,16 +19,16 @@ Short-term goals with users can do all functionality that will be explained belo
 
 ## Features :star2:
 
-| Feature                                         | Category      | Date             |
-| :---------------------------------------------- | :------------ | :--------------- |
-| Can see all the vacation places on the homepage | UI            | Sun, 7 Aug 2022  |
-| Slider inside card                              | UI            | Sun, 7 Aug 2022  |
-| Filter by category (with carousel)              | Functionality | Sun, 7 Aug 2022  |
-| Scroll auto load                                | Functionality | Sun, 21 Aug 2022 |
-| Internationalization                            | Functionality | Sun, 21 Aug 2022 |
-| Filters in detail                               | Functionality | Sun, 21 Aug 2022 |
-| Searching (Include a11y)                        | Functionality | Sun, 04 Sep 2022 |
-| Detail side to side with maps                   | Functionality | Sun, 18 Sep 2022 |
+| Feature                                         | Category      | Date             | Status |
+| :---------------------------------------------- | :------------ | :--------------- | :----- |
+| Can see all the vacation places on the homepage | UI            | Sun, 7 Aug 2022  |        |
+| Slider inside card                              | UI            | Sun, 7 Aug 2022  |        |
+| Filter by category (with carousel)              | Functionality | Sun, 7 Aug 2022  |        |
+| Scroll auto load                                | Functionality | Sun, 21 Aug 2022 |        |
+| Internationalization                            | Functionality | Sun, 21 Aug 2022 |        |
+| Filters in detail                               | Functionality | Sun, 21 Aug 2022 |        |
+| Searching (Include a11y)                        | Functionality | Sun, 04 Sep 2022 |        |
+| Detail side to side with maps                   | Functionality | Sun, 18 Sep 2022 |        |
 
 ## Feature Breakdown :stars:
 
